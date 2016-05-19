@@ -1,0 +1,25 @@
+{
+    "name": "jsmicro-is-string",
+    "description": "Check does the given Javascript Object is a string.",
+    "main": "index.js",
+    "authors": [
+        "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "is-string",
+        "isstring",
+        "string"
+    ],
+    "moduleType": [],
+    "homepage": "https://github.com/jsmicro/is-string",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "package.json",
+        "main.js",
+        "readme.md"
+    ]
+}
