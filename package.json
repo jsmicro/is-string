@@ -1,5 +1,5 @@
 {
-    "name": "jsmicro-is-string",
+    "name": "@jsmicro/is-string",
     "version": "1.0.1",
     "description": "Check does the given Javascript Object is a string.",
     "main": "main.js",

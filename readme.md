@@ -30,11 +30,11 @@ bower install --save jsmicro-is-string
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-string
+npm install --save @jsmicro/is-string
 ```
 
 ```js
-const str = require('jsmicro-is-string');
+const str = require('@jsmicro/is-string');
 
 // Available in the global object.
 isString('String'); // true
